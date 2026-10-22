@@ -1,14 +1,20 @@
 {
- "updated": "2026-10-06",
+ "updated": "2026-10-22",
  "rating": "5,0",
- "count": 21,
+ "count": 22,
  "url": "https://autojerry.fi/autokorjaamo/espoo/pdr-korjaus-auton-pesut-ja-kiillotukset/#reviews",
  "reviews": [
+  {
+   "date": "2026-10-10",
+   "name": "Laura S.",
+   "car": "Toyota Yaris",
+   "text": "Voiko nopeampaa ja parempaa palvelua ollakkaan!!! 🥳 Samana päivänä hoidettu auton naarmut piiloon ja hyvään hintaan, kiitos vielä. 🤝"
+  },
   {
    "date": "2026-10-03",
    "name": "Kim P.",
    "car": "Renault Laguna",
-   "text": "Kaikki sujui kuten sovittu, aikataulu, hinta, työn laatu, kaikki OK!"
+   "text": "Kaikki sujui kuten sovittu, aikataulu, hinta,työn laatu, kaikki OK!"
   },
   {
    "date": "2026-09-21",
@@ -17,10 +23,22 @@
    "text": "Homma hoitui sovitusti ajallaan, ja pieni jälkisäätökin erittäin mallikkaasti."
   },
   {
+   "date": "2026-08-08",
+   "name": "Micke L.",
+   "car": "Lada Niva",
+   "text": "Vaihtoivat Ludmila Ladalle uuden etupyöränlaakerin, mikä ei välttämättä aina ole helppoa koska hän, ollessaan sillä päällä, voi olla melko temperamenttinen. Onnistuivat kuitenkin erinomaisesti tehtävässä, pysyivät haasteista huolimatta sovitussa hinnassa, ja työn laatu oli vähintään mainio. Jos huolivat, niin käytän tarvittaessa heidän palveluita mielelläni jatkossakin."
+  },
+  {
    "date": "2026-08-04",
    "name": "Harri P.",
    "car": "BMW 3-Sarja",
    "text": "Löysivät vaihtoehtoisen ja edullisen tavan toteuttaa korjaus. Suosittelen lämpimästi!"
+  },
+  {
+   "date": "2026-07-11",
+   "name": "Martin B.",
+   "car": "Audi A6",
+   "text": "Vanhan lasin irrottaminen oli erittäin vaikeaa, erityisen ruosteiset kohdat käsiteltiin erityisaineella, uusi lasi asennettiin. Hinta oli kuitenkin sovitun mukainen"
   },
   {
    "date": "2026-05-04",
@@ -29,16 +47,52 @@
    "text": "Ystävällinen ja hyvä palvelu. Korjaus näyttää asialliselta"
   },
   {
+   "date": "2026-03-10",
+   "name": "Henrik G.",
+   "car": "Mitsubishi Outlander",
+   "text": "Kaikki sujui mallikkaasti kuten oli sovittu. Voin suositella"
+  },
+  {
    "date": "2026-03-05",
    "name": "Henri M.",
    "car": "BMW 3-Sarja",
    "text": "Erinomainen palvelu! Etuvalon vaihto onnistui nopeasti sekä erittäin kilpailevalla hinnalla. Todella hyvää jälkeä!"
   },
   {
+   "date": "2026-02-28",
+   "name": "Mika P.",
+   "car": "KIA Rio",
+   "text": "Hinta-arvio piti."
+  },
+  {
    "date": "2026-01-27",
    "name": "Jenni",
    "car": "Toyota Yaris",
    "text": "Ajan sai helposti sovittua ja työ tuli ajallaan valmiiksi. Oli vielä korjattu takapuskuria kaupan päälle."
+  },
+  {
+   "date": "2026-01-02",
+   "name": "Sari T.",
+   "car": "BMW 1-Sarja",
+   "text": "En olisi ikinä uskonut, että autoni etupuskurin vauriot saataisiin korjattua ilman uuden puskurin hankintaa, mutta toisin kävi! Tekivät tässä liikkeessä ihmeitä ja työn jälki oli erinomaista. Lisäksi vaihtoivat rikkinäiset valot ja lisätyönä pesivät auton sisältä että ulkoa. Oli mukava hakea superkiiltävä auto kotiin. Iso kiitos myös erinomaisesta asiakaspalvelusta ja sujuvasta yhteydenpidosta. Lämpimät suosittelut!"
+  },
+  {
+   "date": "2025-11-26",
+   "name": "Inna",
+   "car": "Toyota RAV4",
+   "text": "Nopea ja ladukasta palvelua"
+  },
+  {
+   "date": "2025-11-21",
+   "name": "Gabriel A.",
+   "car": "KIA Rio",
+   "text": "Excellent service"
+  },
+  {
+   "date": "2025-10-29",
+   "name": "Henrik P.",
+   "car": "Ford S-MAX",
+   "text": "Rikkoutuneen sivuikkunan vaihto purkuosaa käyttäen. Nopea, ystävällinen ja laadukas toteutus."
   },
   {
    "date": "2025-10-26",
@@ -51,6 +105,36 @@
    "name": "Kari V.",
    "car": "Mercedes-Benz GLE",
    "text": "Toiminta ripeää ja ystävällistä, työn laatu hyvä ja hinta-arvio piti kutinsa."
+  },
+  {
+   "date": "2025-10-10",
+   "name": "Jussi M.",
+   "car": "Audi A1",
+   "text": "Hyvä ja nopea palvelu. Suosittelen."
+  },
+  {
+   "date": "2025-09-18",
+   "name": "Kaisa K.",
+   "car": "Ford C-Max",
+   "text": "."
+  },
+  {
+   "date": "2025-09-18",
+   "name": "Mika I.",
+   "car": "Volvo V40",
+   "text": "Kaikki meni niin kuin luvattiin"
+  },
+  {
+   "date": "2025-08-28",
+   "name": "Julius P.",
+   "car": "Tesla Model 3",
+   "text": ":)"
+  },
+  {
+   "date": "2025-08-16",
+   "name": "T. E.",
+   "car": "Dacia Duster",
+   "text": "Valitsin liikkeen kilpailutuksen perusteella. Isä ja poika (Artur) levittivät laadukkaan 9H pinnoitteen erittäin huolellisesti, tekivät töitä n. 15 min kauemmin kuin ennalta arvioivat."
   }
  ]
 }
